@@ -258,9 +258,6 @@ The analysis includes delivery time and shipping-method performance.
 **Recommendation:**
 Monitor average delivery time by country, shipping method, and platform to identify operational bottlenecks. Improving delivery reliability could contribute to higher customer satisfaction and potentially reduce delivery-related complaints and returns.
 
----AUTHOR AND CONTACT
-SHARYA FATIMA
-sharyafatima.2025@gmail.com
 
 ## 📌 Conclusion
 
