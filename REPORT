@@ -1,0 +1,131 @@
+Since these are your **SQL + Power BI Dashboard** files for the same project, you should have **one professional GitHub README/report** instead of two separate reports.
+
+Use the following:
+
+---
+
+# 📊 E-Commerce Sales Analytics Dashboard (SQL + Power BI)
+
+## 📌 Project Overview
+
+This project focuses on analyzing an E-Commerce Sales dataset using SQL and Power BI to uncover business insights related to sales performance, customer behavior, product categories, payment methods, and regional trends. SQL was used for data preparation and transformation, while Power BI was used to build an interactive dashboard for visualization and decision-making.
+
+---
+
+## 🎯 Objectives
+
+* Analyze overall sales performance.
+* Identify top-performing products and categories.
+* Understand customer purchasing behavior.
+* Compare sales across countries and platforms.
+* Evaluate payment methods and shipping preferences.
+* Monitor monthly and quarterly sales trends.
+* Build an interactive dashboard for business insights.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **SQL** – Data cleaning, table creation, transformation, and querying.
+* **Power BI** – Dashboard development and interactive visualizations.
+* **Power Query** – Data loading and preprocessing.
+* **DAX** – Custom measures and KPIs.
+* **Git & GitHub** – Version control and project hosting.
+
+---
+
+## 📂 Dataset Features
+
+The dataset contains information such as:
+
+* Order ID
+* Year, Month, Quarter
+* Country
+* Platform
+* Customer Segment
+* Customer Age Group
+* Customer Gender
+* Product Category
+* Quantity Ordered
+* Unit Price
+* Discount
+* Shipping Cost
+* Tax Amount
+* Final Amount
+* Payment Method
+* Shipping Method
+* Order Status
+
+---
+
+## ⚙️ SQL Work
+
+The SQL script was used to:
+
+* Create the main sales table.
+* Define appropriate data types and constraints.
+* Organize transactional data.
+* Prepare the dataset for visualization.
+* Enable efficient querying and analysis.
+
+---
+
+## 📊 Power BI Dashboard
+
+The dashboard includes interactive visualizations for:
+
+* Total Sales
+* Total Orders
+* Revenue Trends
+* Sales by Country
+* Sales by Platform
+* Sales by Product Category
+* Customer Segment Analysis
+* Age Group Distribution
+* Gender-wise Sales
+* Payment Method Analysis
+* Shipping Method Analysis
+* Monthly & Quarterly Performance
+* Dynamic Filters and Slicers
+
+---
+
+## 📈 Key Insights
+
+* Identified the highest revenue-generating product categories.
+* Compared sales performance across multiple countries.
+* Analyzed customer demographics and purchasing behavior.
+* Evaluated platform-wise sales contribution.
+* Monitored seasonal and quarterly sales trends.
+* Assessed the impact of discounts on revenue.
+* Compared payment and shipping method preferences.
+
+---
+
+## 📌 Project Workflow
+
+1. Data Collection
+2. SQL Data Preparation
+3. Data Cleaning & Transformation
+4. Import into Power BI
+5. Data Modeling
+6. DAX Measure Creation
+7. Dashboard Design
+8. Business Insight Generation
+
+---
+
+## 🚀 Skills Demonstrated
+
+* SQL Database Design
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Power BI Dashboard Development
+* DAX Calculations
+* Data Visualization
+* Business Intelligence
+* Analytical Thinking
+* KPI Reporting
+
+This project demonstrates an end-to-end Business Intelligence workflow by combining SQL for data preparation with Power BI for interactive visualization. The dashboard enables stakeholders to monitor sales performance, understand customer behavior, evaluate business trends, and support data-driven decision-making through clear and actionable insights.
